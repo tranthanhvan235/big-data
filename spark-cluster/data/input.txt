@@ -1,0 +1,20 @@
+Spark is a fast and general engine for large scale data processing
+Hadoop is an open source framework for distributed storage and processing
+Spark can run on Hadoop YARN or standalone cluster mode
+MapReduce is the original processing engine for Hadoop
+Spark provides APIs in Java Scala Python and R
+RDD stands for Resilient Distributed Dataset in Spark
+DataFrame is a distributed collection of data organized into named columns
+Spark SQL allows querying structured data using SQL syntax
+Spark Streaming enables scalable fault tolerant stream processing
+Machine learning with Spark MLlib provides scalable algorithms
+GraphX is the Spark API for graphs and graph parallel computation
+Spark is often ten to one hundred times faster than MapReduce
+Data processing at scale requires distributed computing frameworks
+HDFS stores data across multiple nodes in a Hadoop cluster
+Spark uses in memory computation to speed up data processing tasks
+Big data analytics with Spark and Hadoop is widely used in industry
+Real time data processing with Spark Streaming and Kafka is popular
+Spark supports batch processing streaming machine learning and graph processing
+ETL pipelines with Spark can handle petabytes of data efficiently
+Data engineers use Spark daily for building data pipelines and analytics

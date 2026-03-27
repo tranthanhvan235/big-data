@@ -1,0 +1,1 @@
+Hadoop is fast. Hadoop is powerful. YARN is a resource negotiator. UET student study Big Data.
